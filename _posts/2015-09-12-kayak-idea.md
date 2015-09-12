@@ -1,7 +1,8 @@
 ---
 layout: blog
 splash: ""
-tags: null
+tags: 
+  - apples
 published: false
 title: Kayak Idea
 ---
