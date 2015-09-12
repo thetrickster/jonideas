@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# Run this file to develop Jekyll site
+
+# Normal dev
+bundle exec jekyll serve --watch --baseurl ''
+
+# Cloud9 dev
+bundle exec jekyll serve --host $IP --port $PORT --watch --baseurl ''
