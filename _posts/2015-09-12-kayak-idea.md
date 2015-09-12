@@ -3,7 +3,7 @@ layout: blog
 splash: ""
 tags: 
   - apples
-published: false
+published: true
 title: Kayak Idea
 ---
 
